@@ -215,7 +215,7 @@ const PortfolioViewer = () => {
                 ])}
                 <h3 className="font-semibold">🔗 Contact</h3>
                 {renderList([
-                  "GitHub: https://github.com/Klooy",
+                  "GitHub: https://github.com/Klooy/MyPortfolioMC",
                   "LinkedIn: https://www.linkedin.com/in/mfcorrales",
                   "Email: mfcorrales26@gmail.com"
                 ])}
