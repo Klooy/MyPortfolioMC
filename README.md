@@ -124,13 +124,10 @@ npm run build
 4. Push to the branch
 5. Open a pull request
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 ## 🔗 Contact
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
+- GitHub: https://github.com/Klooy
+- LinkedIn: https://www.linkedin.com/in/mfcorrales/
+- Email: mfcorrales26@gmail.com
 
 ## 🙏 Agradecidimentos
 - Íconos proporcionados por Lucide React
