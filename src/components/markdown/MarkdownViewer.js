@@ -78,7 +78,7 @@ const PortfolioViewer = () => {
   return (
     <div className="max-w-4xl mx-auto bg-white rounded-lg shadow-lg">
       <div className="p-6">
-        <h1 className="text-3xl font-bold mb-6">MC Klooy Portfolio Project</h1>
+        <h1 className="text-3xl font-bold mb-6">MC Portfolio Project</h1>
         
         <div className="space-y-2">
           <MarkdownSection
