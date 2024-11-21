@@ -1,7 +1,7 @@
 import React from 'react';
-import { Moon, Power } from 'lucide-react';
+import { Moon, Power, QrCode } from 'lucide-react';
 
-const Taskbar = ({ selectedFolder, onSleepMode, onExitClick }) => {
+const Taskbar = ({ selectedFolder, onSleepMode, onExitClick, onQRCodeClick }) => {
   return (
     <div className="fixed bottom-0 left-0 right-0 h-12 bg-gray-900 flex items-center justify-between px-4 border-t border-gray-700 z-10">
       <div className="flex items-center gap-4">
@@ -12,6 +12,13 @@ const Taskbar = ({ selectedFolder, onSleepMode, onExitClick }) => {
         )}
       </div>
       <div className="flex items-center gap-2">
+        <button
+          onClick={onQRCodeClick} // Llama a la función que alterna el QR
+          className="text-white hover:bg-green-600 p-2 rounded-full transition-colors"
+          title="Show QR Code"
+        >
+          <QrCode className="w-6 h-6" />
+        </button>
         <button
           onClick={onSleepMode}
           className="text-white hover:bg-blue-600 p-2 rounded-full transition-colors"
