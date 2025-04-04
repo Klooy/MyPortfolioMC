@@ -4,6 +4,10 @@
 Un sitio web interactivo inspirado en una computadora de escritorio, creado con React y Tailwind CSS. El proyecto presenta una interfaz única que imita el entorno de un sistema operativo, 
 lo que permite a los visitantes explorar diferentes aspectos de mi experiencia profesional a través de un diseño atractivo e intuitivo.
 
+## MC Portfolio Desktop Deployt
+
+**Netlify**: [MC Portfolio Desktop](https://my-portfolio-mc.netlify.app/)
+
 ## 🚀 Features
 - **Sistema de carpetas interactivas**: explore su experiencia laboral, proyectos, educación y habilidades
 - **Interfaz de arrastrar y soltar**: personalice el diseño arrastrando carpetas
